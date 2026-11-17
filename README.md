@@ -49,14 +49,5 @@ Built to explore component architecture, state management, and fast-refresh deve
 
 ---
 
-## 📢 Connect With Me
-
-Made by [Harshit](https://github.com/harshit7217) 👨‍💻  
-Follow my dev journey:  
-- 🐦 [Twitter](https://twitter.com/Harshit7217)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshit7217)
-
----
-
 > “Rolling with purpose—because even dice need direction.” 🎲
 
